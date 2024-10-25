@@ -14,10 +14,10 @@ Highcharts.chart('container', {
     }
   },
   series: [{
-    name: 'Scott',
+    name: 'Benjamin',
     data: [1, 0, 4, 2]
   }, {
-    name: 'Susan',
+    name: 'Mate',
     data: [5, 7, 3, 0]
   }]
 });
